@@ -1,0 +1,7 @@
+|ex2
+LED[0] <= <GND>
+SW[0] => ~NO_FANOUT~
+SW[1] => ~NO_FANOUT~
+SW[2] => ~NO_FANOUT~
+
+
