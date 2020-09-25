@@ -1,7 +1,7 @@
 |ex2
-LED[0] <= <GND>
-SW[0] => ~NO_FANOUT~
-SW[1] => ~NO_FANOUT~
-SW[2] => ~NO_FANOUT~
+LED[0] <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+SW[0] => inst1.IN1
+SW[1] => inst.IN0
+SW[2] => inst.IN1
 
 
