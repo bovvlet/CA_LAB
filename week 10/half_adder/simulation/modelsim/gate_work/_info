@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder/simulation/modelsim
+vhalf_adder
+!s110 1604585736
+!i10b 1
+!s100 ]Y<MMHoNbOR1=44gWgngb3
+I@NB149TbbEjUVTz`m[<oM0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604585547
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder/half_adder.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder/half_adder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1604585734.000000
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder/half_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder/half_adder.v|
+!i113 1
+Z3 o-vlog01compat -work work
+Z4 !s92 -vlog01compat -work work {+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder}
+Z5 tCvgOpt 0
+vhalf_adder_testbench
+!s110 1604585737
+!i10b 1
+!s100 oIO^<R^5:0bNTJ9k0E1aZ0
+I0R6WX1H:CUAgVCR;ZlKQc3
+R1
+R0
+w1604576573
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder/half_adder_testbench.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder/half_adder_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1604585736.000000
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder/half_adder_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 10/half_adder/half_adder_testbench.v|
+!i113 1
+R3
+R4
+R5
+vhard_block
+!s110 1604585734
+!i10b 1
+!s100 9YRF0XiF85;T6Z8:LPLDf0
+I[d=8=am^7lmlA5VFCCR192
+R1
+R0
+w1604585715
+8half_adder.vo
+Fhalf_adder.vo
+L0 264
+R2
+r1
+!s85 0
+31
+!s108 1604585732.000000
+!s107 half_adder.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|half_adder.vo|
+!i113 1
+R3
+!s92 -vlog01compat -work work +incdir+.
+R5
