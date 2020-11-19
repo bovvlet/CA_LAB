@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/simulation/modelsim
+vadd
+Z1 !s110 1605810247
+!i10b 1
+!s100 7amb9ICFoGL8l<RG;7AKd1
+IbnGIj:]8d<3TKd=H_BPZ@0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1605810151
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/add.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/add.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1605810247.000000
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/add.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/add.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu}
+Z7 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 Jc5E^`Eb4SSh`1G0z1[6<2
+IPm4VY615KBgJ?AbFM`92`0
+R2
+R0
+w1605810032
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/alu.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/alu.v|
+!i113 1
+R5
+R6
+R7
+valu_testbench
+R1
+!i10b 1
+!s100 l4FjVYJ]6i;?5^]@S9Mio0
+IOhQBWQa3?Ii[Vc@8:b[^N1
+R2
+R0
+w1605808579
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/alu_testbench.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/alu_testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/alu_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/alu_testbench.v|
+!i113 1
+R5
+R6
+R7
+vglob
+R1
+!i10b 1
+!s100 W6ZL<Im9TOQ<=SYNohkWe1
+IiBmO_<YjfQ13zZ^]2YZJR0
+R2
+R0
+w1605810039
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/glob.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/glob.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/glob.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/glob.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+!s110 1605810246
+!i10b 1
+!s100 Sl8`:`dZ`dIn6`WY83jg`0
+I60PY3KY=_IHSGc5nKR[dH1
+R2
+R0
+w1605810231
+8alu.vo
+Falu.vo
+L0 532
+R3
+r1
+!s85 0
+31
+!s108 1605810246.000000
+!s107 alu.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|alu.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vmux
+Z8 !s110 1605810248
+!i10b 1
+!s100 k=:bTSEUBUcW[KmO1nXNH0
+ITOXWS0IbOAYM=B5El=Bd10
+R2
+R0
+w1605810109
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/mux.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1605810248.000000
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/mux.v|
+!i113 1
+R5
+R6
+R7
+vsrl
+R8
+!i10b 1
+!s100 b292e55EW3oX]:O60[?9Z3
+I9?_@hMn7D3YVJY2I9JmAb1
+R2
+R0
+w1605810128
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/srl.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/srl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/srl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/srl.v|
+!i113 1
+R5
+R6
+R7
+vsub
+R8
+!i10b 1
+!s100 2gEmT?ZRl`3YD6UMoReC^1
+IOEIh@<=f=Cici:[E9VN>71
+R2
+R0
+w1605810142
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/sub.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/sub.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 12/alu/sub.v|
+!i113 1
+R5
+R6
+R7
