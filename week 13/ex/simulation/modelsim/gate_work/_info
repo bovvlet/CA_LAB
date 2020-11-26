@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/simulation/modelsim
+valu_decoder
+Z1 !s110 1606400543
+!i10b 1
+!s100 ?474l9kFT]N2<PYDN^^5n2
+IbW5iZXWfTW_R`MfT[oLeM3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1606400280
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/alu_decoder.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/alu_decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1606400543.000000
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/alu_decoder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex}
+Z7 tCvgOpt 0
+vex
+R1
+!i10b 1
+!s100 7l@]Fj`b0H8RH]1KZe`Z92
+I^5[H3RGjf6Om20JhUSV;f1
+R2
+R0
+w1606399685
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/control_unit.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/control_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/control_unit.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+R1
+!i10b 1
+!s100 3J0=7YP8_n9Cn=A@GNT:20
+Id9GXF6a5fIF8<i;@gbGCn0
+R2
+R0
+w1606400525
+8ex.vo
+Fex.vo
+L0 1095
+R3
+r1
+!s85 0
+31
+R4
+!s107 ex.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ex.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vmain_decoder
+Z8 !s110 1606400544
+!i10b 1
+!s100 :U0QUiMHAF1iKW>m@RG[h3
+I52bK@4`Ze9Fm3?_U6LG2?1
+R2
+R0
+w1606400430
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/main_decoder.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/main_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1606400544.000000
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/main_decoder.v|
+!i113 1
+R5
+R6
+R7
+vtestbench
+R8
+!i10b 1
+!s100 VRY^M0njO^RET[:RVG]O70
+IDOV1G6;P_WE115D:jYSWg2
+R2
+R0
+w1606399155
+8C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/testbench.v
+FC:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex|C:/Users/bovvlet/Desktop/CA_Lab/CA_LAB/week 13/ex/testbench.v|
+!i113 1
+R5
+R6
+R7
